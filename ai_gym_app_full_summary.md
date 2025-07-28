@@ -172,7 +172,4 @@ An AI-powered mobile gym app that allows users to plan, track, and improve their
 
 ---
 
-Let me know if you want this exported as a PDF, turned into wireframes, or formatted as a pitch or PRD (Product Requirements Document).
-
-add the MVP plan
 
